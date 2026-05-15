@@ -17,3 +17,5 @@ If you are developing a production application, we recommend using TypeScript wi
 
 
 demo link- http://localhost:5173/
+
+my ppt https://docs.google.com/presentation/d/1SnjBRocSD5Hw2n7Anz_EePGKeJ5xEevr1JisM-3TTIw/edit?usp=sharing
